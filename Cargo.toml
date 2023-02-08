@@ -1,0 +1,4 @@
+[workspace]
+members = [
+    "jobs/send-discord-message"
+]
